@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/script.png</file>
+        <file>images/parameters.png</file>
+        <file>images/doc.png</file>
+        <file>images/play.png</file>
+        <file>images/refresh.png</file>
+        <file>images/about.png</file>
+        <file>images/logo.png</file>
+        <file>images/console.png</file>
+        <file>images/download.png</file>
+    </qresource>
+</RCC>
